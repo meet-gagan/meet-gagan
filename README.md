@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-Hello there! I'm Gagan, a Computer Science student at ITM Skills University, Mumbai, originally from the vibrant land of Andhra Pradesh. My journey in engineering is not just about textbooks and lectures, it's a thrilling exploration of the endless possibilities!!
+A Computer Science student at ITM Skills University, Mumbai, originally from the vibrant land of Andhra Pradesh. My journey in engineering is not just about textbooks and lectures, it's a thrilling exploration of the endless possibilities!!
 
 By the way, I'm
 Good at: 
