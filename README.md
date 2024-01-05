@@ -44,6 +44,7 @@ Feel free to connect/dm with me on LinkedIn and twitter (@gagan_nagu)!
 
 
 📩 : 2023.vgagan@isu.ac.in
+
 📍 : Navi Mumbai, India
 
 
