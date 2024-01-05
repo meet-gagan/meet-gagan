@@ -52,4 +52,5 @@ What I contribute to the discourse:
 
 #Behind every code there is an enigma!
 
+Wanna ask me a question or just want to say hi, my inbox is always open :)
 Feel free to connect/dm with me on LinkedIn and twitter (@gagan_nagu)!
