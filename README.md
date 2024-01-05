@@ -1,4 +1,4 @@
-T### Hey yoo!, I'm Gagan
+# Hey yoo!, I'm Gagan
 
 
 # About me👽
