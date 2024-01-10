@@ -81,4 +81,7 @@ Oh, I've already planned my zombie apocalypse survival strategy. I'll just blend
 <h3>Do you sleep with lights on or off?</h3> <br>
 I sleep with the lights off, because even darkness needs a break from me! <br>
 <h3>Are you scared of horror movies?</h3> <br>
-Nah, I call it 'cardio training for my adrenaline! <br>
+Nah, I call it 'cardio training for my adrenaline! <br> <br>
+
+# If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://www.buymeacoffee.com/gagannaguv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
