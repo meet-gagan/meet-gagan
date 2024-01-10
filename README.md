@@ -28,7 +28,7 @@ What I contribute to the discourse:
 
 📍 : Navi Mumbai, India
 
-# Connect With Me!
+# Connect With Me 🤝
 <p align="left">
 <a href="https://www.linkedin.com/in/meet-gagan/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" align="Left" alt="linkedin" width="50">
@@ -46,8 +46,11 @@ alt ="Twitter" width ="50">
 alt="Instagram" width ="50"> 
 </a>
 
-<p align="left">
-<a href ="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png">
+
+<a href ="https://leetcode.com/user6681tR/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" align ="Left"
     alt="Leetcode" width ="50"
 </a>
+  <br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meet-gagan&label=Profile%20views&color=0e75b6&style=flat" alt="meet-gagan" /> </p>
+
