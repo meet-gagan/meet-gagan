@@ -53,7 +53,16 @@ alt="Instagram" width ="40">
 
 <a href ="https://leetcode.com/user6681tR/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" align ="Left"
-    alt="Leetcode" width ="40"
+    alt="Leetcode" width ="40"> </a>
+
+<a href ="https://medium.com/@gagan.nagu12">
+<img src ="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" align = "Left"
+alt="Medium" width = "40"> </a>
+    
+   <a href = "https://dev.to/gagan_nagu_v">
+   <img src="https://w7.pngwing.com/pngs/673/288/png-transparent-dev-brands-icon-thumbnail.png" align = "Left"
+   alt ="Dev.to" width="40"> <a/>
+ 
 </a>
   <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet-gagan&label=Profile%20views&color=0e75b6&style=flat" alt="meet-gagan" /> </p>
