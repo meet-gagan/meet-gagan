@@ -31,8 +31,6 @@ What I contribute to the discourse:
 
 # Connect With Me!
 
-[![linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/meet-gagan/) &nbsp; &nbsp; &nbsp;
-
 
 
 
