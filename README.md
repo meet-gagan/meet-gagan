@@ -82,9 +82,14 @@ I sleep with the lights off, because even darkness needs a break from me! <br>
 Nah, I call it 'cardio training for my adrenaline! <br> <br>
 
 # If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-<a href="https://www.buymeacoffee.com/gagannaguv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<p align="center">
+<a href="https://www.buymeacoffee.com/gagannaguv" target="_blank">
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+</a>
+</p>
 
 
 [![An image of @meetgagan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meetgagan)][holopin]
 
 [holopin]:https://www.holopin.io/@meetgagan#
+<h2 align="center"> Show some ❤️ by starring some of the repositories! </h2>
