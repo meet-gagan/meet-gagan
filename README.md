@@ -29,10 +29,25 @@ What I contribute to the discourse:
 📍 : Navi Mumbai, India
 
 # Connect With Me!
+<p align="left">
 <a href="https://www.linkedin.com/in/meet-gagan/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" align="Left" alt="linkedin" width="70">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" align="Left" alt="linkedin" width="50">
 </a>
 
+<p align="left">
+<a href="https://twitter.com/gagan_nagu">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" align ="Left"
+alt ="Twitter" width ="50">
+</a>
 
+<p align="left">
+<a href ="https://www.instagram.com/gagan_nagu/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/480px-Instagram_logo_2016.svg.png" align ="Left"
+alt="Instagram" width ="50"> 
+</a>
 
-
+<p align="left">
+<a href ="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" align ="Left"
+    alt="Leetcode" width ="50"
+</a>
