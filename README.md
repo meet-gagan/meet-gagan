@@ -30,8 +30,8 @@ What I contribute to the discourse:
 
 📩 : 2023.vgagan@isu.ac.in
 
-📍 : Navi Mumbai, India
-
+📍 : Navi Mumbai, India 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=meet-gagan&show_icons=true&locale=en" alt="meet-gagan" /</p>
 # Connect With Me 🤝
 <p align="left">
 <a href="https://www.linkedin.com/in/meet-gagan/">
@@ -68,7 +68,7 @@ alt="Medium" width = "40"> </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet-gagan&label=Profile%20views&color=0e75b6&style=flat" alt="meet-gagan" /> </p>
 
  
-# Languages and Tools
+<h1> Languages and Tools </h1>
 <p align="left"> <a <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> </p>
 
 # Frequently Asked 🤖:
@@ -76,8 +76,6 @@ alt="Medium" width = "40"> </a>
  'Oh no, I forgot to save my browser history!'👾 <br>
  <h3>What is your Wi-Fi password?</h3> <br>
  Mission Impossible!💨<br>
-<h3>How long do you think you'd survive in a zombie apocalypse?</h3> <br>
-Oh, I've already planned my zombie apocalypse survival strategy. I'll just blend in by walking like a zombie – it's called the 'Undead Shuffle'<br>
 <h3>Do you sleep with lights on or off?</h3> <br>
 I sleep with the lights off, because even darkness needs a break from me! <br>
 <h3>Are you scared of horror movies?</h3> <br>
@@ -85,3 +83,8 @@ Nah, I call it 'cardio training for my adrenaline! <br> <br>
 
 # If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/gagannaguv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+[![An image of @meetgagan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/meetgagan)][holopin]
+
+[holopin]:https://www.holopin.io/@meetgagan#
