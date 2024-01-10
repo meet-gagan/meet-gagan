@@ -32,7 +32,7 @@ What I contribute to the discourse:
 
 📍 : Navi Mumbai, India 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=meet-gagan&show_icons=true&locale=en" alt="meet-gagan" /</p>
-# Connect With Me 🤝
+<h1> Connect With Me 🤝 </h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/meet-gagan/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" align="Left" alt="linkedin" width="40">
