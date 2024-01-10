@@ -3,24 +3,9 @@
 
 # About me👽
 
+A Computer Science student at ITM Skills University, Mumbai, originally from the vibrant land of Andhra Pradesh. My journey in engineering is not just about textbooks and lectures, it's a thrilling exploration of the endless possibilities!!,Enthusiastic computer science student with a fervor for transforming concepts into tangible solutions that add value 🌻. Open to collaborative discussions, idea implementation, and any inquiries you may have. Feel free to drop me a message – my inbox is always open 😄."
 
-
-
-A Computer Science student at ITM Skills University, Mumbai, originally from the vibrant land of Andhra Pradesh. My journey in engineering is not just about textbooks and lectures, it's a thrilling exploration of the endless possibilities!!
-
-By the way, I'm
-Good at: 
-- C++
-- Python
-- C
-- Fastn
-- Blender
-- Html5
-- Css3
-- Git, GitHub, Version Control
-- Asphalt
-- Minecraft
-
+I'm
 Curious about:
 - Web3
 - Blockchain
@@ -39,11 +24,6 @@ What I contribute to the discourse:
 
 #Behind every code there is an enigma!
 
-Wanna ask me a question or just want to say hi, my inbox is always open :)
-
-Feel free to connect/dm with me on LinkedIn and twitter (@gagan_nagu)!
-
-
 📩 : 2023.vgagan@isu.ac.in
 
 📍 : Navi Mumbai, India
@@ -51,7 +31,7 @@ Feel free to connect/dm with me on LinkedIn and twitter (@gagan_nagu)!
 
 # Connect With Me!
 
-
+[![linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/meet-gagan/) &nbsp; &nbsp; &nbsp;
 
 
 
