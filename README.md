@@ -3,7 +3,9 @@
 
 # About me👽
 
-A Computer Science student at ITM Skills University, Mumbai, originally from the vibrant land of Andhra Pradesh. My journey in engineering is not just about textbooks and lectures, it's a thrilling exploration of the endless possibilities!!,Enthusiastic computer science student with a fervor for transforming concepts into tangible solutions that add value 🌻. Open to collaborative discussions, idea implementation, and any inquiries you may have. Feel free to drop me a message – my inbox is always open 😄."
+A Computer Science student at ITM Skills University, Mumbai, India.Originally from the vibrant land of Andhra Pradesh. My journey in engineering is not just about textbooks and lectures, it's a thrilling exploration of the endless possibilities!!,Enthusiastic computer science student with a fervor for transforming concepts into tangible solutions that add value 🌻. Open to collaborative discussions, idea implementation, and any inquiries you may have. Feel free to drop me a message – my inbox is always open 😄."
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 I'm
 Curious about:
@@ -37,7 +39,7 @@ What I contribute to the discourse:
 <p align="left">
 <a href="https://twitter.com/gagan_nagu">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" align ="Left"
-alt ="Twitter" width ="50">
+alt ="Twitter" width ="55">
 </a>
 
 <p align="left">
