@@ -51,6 +51,6 @@ alt="Instagram" width ="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" align ="Left"
     alt="Leetcode" width ="50"
 </a>
-  <br><br>
+  <br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet-gagan&label=Profile%20views&color=0e75b6&style=flat" alt="meet-gagan" /> </p>
 
