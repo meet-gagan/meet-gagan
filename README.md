@@ -1,7 +1,7 @@
 # Hey yoo!, I'm Gagan
 
 
-# About me👽
+# About me🕶️
 
 A Computer Science student at ITM Skills University, Mumbai, India.Originally from the vibrant land of Andhra Pradesh. My journey in engineering is not just about textbooks and lectures, it's a thrilling exploration of the endless possibilities!!,Enthusiastic computer science student with a fervor for transforming concepts into tangible solutions that add value 🌻. Open to collaborative discussions, idea implementation, and any inquiries you may have. Feel free to drop me a message – my inbox is always open 😄."
 
