@@ -30,7 +30,7 @@ What I contribute to the discourse:
 
 📩 : 2023.vgagan@isu.ac.in
 
-📍 : Navi Mumbai, India 
+📍 : Mumbai, India 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=meet-gagan&show_icons=true&locale=en" alt="meet-gagan"  width="450"  /</p>
 <h1> Connect With Me 🤝 </h1>
 <p align="left">
